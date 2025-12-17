@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">Hi! My name is Felipe Liborio, and I am a Computer Science student with a passion for technology and a focus on software development. I am constantly driven by the desire to learn, improve, and build practical, efficient solutions.<br><br>Currently, I am enhancing my skills in Java and Python, exploring both backend development and graphical interfaces. I enjoy working on projects that challenge me and contribute to my growth as a developer.</p>
+<p align="left">
+Hi! My name is Felipe Liborio, and I am a Computer Science student with a strong passion for technology and software development. I am constantly driven by the desire to learn, improve, and build practical, efficient solutions.
+
+Currently, I am exploring different areas of computing, including web development and data science, gaining experience with both backend systems and user-focused applications. I enjoy working on challenging projects that push me to grow as a developer and broaden my technical and analytical skills.
+</p>
 
 ###
 
